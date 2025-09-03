@@ -10,4 +10,4 @@ void loop() {
   digitalWrite(LED_PIN, LOW);   // LED 끄기
   delay(1000);                        // 1초 대기
 }
-//내용 업데이트 확인용
+//내용 업데이트 확인용!
